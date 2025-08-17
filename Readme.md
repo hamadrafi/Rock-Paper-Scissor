@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock–Paper–Scissors Game
+# 📄✂️ Rock–Paper–Scissors Game
 
 A simple **Rock–Paper–Scissors** game built with **HTML, CSS, and JavaScript**.  
 It saves the player's and computer's scores in the **browser’s localStorage**, so your progress stays even if you refresh the page.
@@ -18,9 +18,10 @@ It saves the player's and computer's scores in the **browser’s localStorage**,
 ---
 
 ## 📂 Project Structure
-
+```
 /project-root
 │── index.html # Main game page
 │── style.css # Styles for the UI
 │── script.js # Game logic (provided below)
 │── README.md # Project documentation
+```
